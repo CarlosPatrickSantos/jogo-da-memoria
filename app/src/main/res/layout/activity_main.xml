@@ -81,7 +81,14 @@
             android:id="@+id/gameRulesText"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Regras do Jogo:\n\n1. O objetivo é encontrar todos os pares de cartas.\n2. Vire duas cartas por vez. Se forem iguais, elas permanecem viradas.\n3. Se forem diferentes, elas viram para baixo novamente.\n4. Tente completar o jogo no menor tempo possível para uma maior pontuação.\n\nBoa sorte!"
+            android:text="Regras do Jogo:\n\n1. O objetivo é encontrar todos os pares de cartas.\n2. Vire duas cartas por vez. Se forem iguais, elas permanecem viradas.\n3. Se forem diferentes, elas viram para baixo novamente.\n**3 Fases progressivas**:
+   \n- 🔹 Fase 1: 12 cartas
+\n- 🔸 Fase 2: 16 cartas
+\n- 🔺 Fase 3: 20 cartas
+\n4. Tente completar o jogo no menor tempo possível para uma maior pontuação.\n\nBoa sorte!\n 👤 Desenvolvedor
+\n** Patrick **\n**Contato:** 48991620710
+
+"
             android:gravity="center"
             android:textSize="20sp"
             android:textStyle="bold"
